@@ -72,4 +72,3 @@ Static portfolio site hosted on **S3 + CloudFront**.
 
 - Coffee-powered coder ☕  
 - Always experimenting with new AWS services  
-- Lifelong learner, currently exploring AI & ML  
