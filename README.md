@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Shaun 👋
+**Business Analyst → Cloud Engineer | AWS Solutions Architect**
 
-<!--
-**shaunniee/shaunniee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I build scalable cloud applications & serverless solutions using AWS.  
+💡 Passionate about solving real-world problems with technology.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 Projects
+- [Three-Tier CRUD Platform](https://github.com/shaunniee/AWS_3_TIER_CRUD.git) – AWS EC2 + RDS + S3 + CloudFront project with Terraform.
+- [Serverless Blog App](https://github.com/shaunniee/AWS_SERVERLESS_BLOG.git) – Lambda + API Gateway + DynamoDB.
+- [AWS Static portfolio website](https://github.com/shaunniee/AWS-PORTFOLIO-WEBSITE.git) – Static portfolio website hosted on s3 + Cloudfront
+
+### 📈 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shaunniee&show_icons=true&theme=radical)
