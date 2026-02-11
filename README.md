@@ -51,14 +51,6 @@ Static portfolio site hosted on **S3 + CloudFront**.
 
 ---
 
-### 📈 GitHub Stats
-
-![Shaun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaunniee&show_icons=true&count_private=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaunniee&layout=compact&theme=radical)
-
-
----
 
 ### 📫 Contact Me
 
