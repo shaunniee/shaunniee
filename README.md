@@ -7,6 +7,13 @@ Passionate about solving real-world problems using **AWS**, **Terraform**, and m
 
 ---
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaunniee&show_icons=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaunniee&layout=compact)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=shaunniee)
+
 ### 🎓 Certifications
 
 ![AWS Solutions Architect](https://img.shields.io/badge/AWS%20Solutions%20Architect-Certified-232F3E?style=for-the-badge&logo=amazon-aws)  
