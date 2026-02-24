@@ -56,7 +56,15 @@ Static portfolio site hosted on **S3 + CloudFront**.
 **Highlights:**  
 - Fast, cost-effective static hosting  
 - Global distribution with CloudFront  
-- Simple, professional portfolio showcase  
+- Simple, professional portfolio showcase
+
+#### 4. [Indriya Clinic Website](https://github.com/shaunniee/Indriya-Clinic.git)  
+Static portfolio site hosted on **S3 + CloudFront**.  
+**Highlights:**  
+- Infrastructure as code with Terraform
+- Secure static hosting on AWS
+- Automated CI/CD with CodePipeline and CodeBuild
+- Custom domain with CloudFront, ACM, and Route53 
 
 ---
 
