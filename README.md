@@ -73,7 +73,7 @@ Public web platform for Indriya Clinics (ENT + Psychiatry) **(AWS + REACT.JS)**.
 
 - LinkedIn: [shaunniee](https://www.linkedin.com/in/shaunniee)  
 - Email: shaunvividsz@gmail.com 
-- Portfolio: [Your Portfolio Link](shaunvividszportfolio.com)
+- Portfolio: [www.shaunvividszportfolio.com](https://shaunvividszportfolio.com)
 
 ---
 
