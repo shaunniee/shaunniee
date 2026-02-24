@@ -59,7 +59,7 @@ Static portfolio site hosted on **S3 + CloudFront**.
 - Simple, professional portfolio showcase
 
 #### 4. [Indriya Clinic Website](https://github.com/shaunniee/Indriya-Clinic.git)  
-Static portfolio site hosted on **S3 + CloudFront**.  
+Public web platform for Indriya Clinics (ENT + Psychiatry) **(AWS + REACT.JS)**.  
 **Highlights:**  
 - Infrastructure as code with Terraform
 - Secure static hosting on AWS
