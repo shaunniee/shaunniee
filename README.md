@@ -64,7 +64,15 @@ Public web platform for Indriya Clinics (ENT + Psychiatry) **(AWS + REACT.JS)**.
 - Infrastructure as code with Terraform
 - Secure static hosting on AWS
 - Automated CI/CD with CodePipeline and CodeBuild
-- Custom domain with CloudFront, ACM, and Route53 
+- Custom domain with CloudFront, ACM, and Route53
+
+#### 5. [Serverless ordering system](https://github.com/shaunniee/SERVERLESS_ORDERING_SYSTEM)  
+A high-throughput, event-driven order processing system built entirely on AWS serverless services. Handles 10,000+ orders/min using the Saga pattern for distributed transactions, with automatic compensation on failure.  
+**Highlights:**  
+- Infrastructure as code with Terraform
+- Saga pattern using Step functions
+- Idempotency using Lambda powertools + dynamoDb conditional writes
+- Decouppling and shock aborption using SQS queue
 
 ---
 
