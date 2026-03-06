@@ -1,4 +1,4 @@
-# Hi, I'm Shaun 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF9900&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Shaun;AWS+Solutions+Architect;Cloud+Engineer;Building+Scalable+Cloud+Solutions)](https://git.io/typing-svg)
 
 **Business Analyst → Cloud Engineer | AWS Solutions Architect**
 
