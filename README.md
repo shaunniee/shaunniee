@@ -18,8 +18,9 @@ Passionate about solving real-world problems using **AWS**, **Terraform**, and m
 ---
 ### 🎓 Certifications
 
-![AWS Solutions Architect](https://img.shields.io/badge/AWS%20Solutions%20Architect-Certified-232F3E?style=for-the-badge&logo=amazon-aws)  
-![Terraform Associate](https://img.shields.io/badge/Terraform-Associate-623CE4?style=for-the-badge&logo=terraform)
+![AWS Solutions Architect](https://img.shields.io/badge/AWS%20Solutions%20Architect-Certified-232F3E?style=flat&logo=amazon-aws)
+![AWS Developer Associate](https://img.shields.io/badge/AWS%20Developer%20Associate-Certified-232F3E?style=flat&logo=amazon-aws)
+![Terraform Associate](https://img.shields.io/badge/Terraform-Associate-623CE4?style=flat&logo=terraform)
 
 ---
 
